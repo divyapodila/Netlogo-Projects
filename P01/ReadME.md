@@ -1,11 +1,3 @@
-## Name & Class 
-
-(Divya Haritha Podila)
-
-( M20315833 )
-
-(CMPS-5443-X10/CMPS-4993-102 Adv Topics: SW Agents )
-
 ## New Features
 
 (Feature-1:
