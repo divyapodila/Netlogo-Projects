@@ -98,4 +98,4 @@ By focusing on these aspects, you can gain insights into the game mechanics and 
 
 ## CREDITS AND REFERENCES
 
-(- Chat GPT)
+( Chat GPT)
